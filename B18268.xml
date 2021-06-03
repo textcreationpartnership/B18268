@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The labours of John Bunyan, author of the Pilgrims Progress, late minister of the gospel, and pastor of the congregation at Bedford, collected, and to be printed in folio, by procurement of his church and friends, and by his own approbation before his death, that these his Christian ministerial labours, may be preserved in the world.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18268</idno><idno type="EEBO-CITATION">99888173</idno>
+  <idno type="VID">194372</idno>
+  <idno type="EEBO-PROQUEST">2240888892</idno>
+  
+            <idno type="STC">Wing B5548A</idno>
+            <idno type="STC">ESTC R229130</idno>
+            <idno type="PROQUEST">ocm99888173</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888173e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194372)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B3:3[5b])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The labours of John Bunyan, author of the Pilgrims Progress, late minister of the gospel, and pastor of the congregation at Bedford, collected, and to be printed in folio, by procurement of his church and friends, and by his own approbation before his death, that these his Christian ministerial labours, may be preserved in the world.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A proposal for printing.</note>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bunyan, John, 1628-1688 --  Early works to 1800.</term>
+               <term type="topical_term">Printing --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="book_proposal">
+            <pb facs="tcp:194372:1"/>
+            <head>THE LABOURS OF JOHN BUNYAN, <hi>Author of the Pilgrims Progress,</hi> Late MINISTER of the GOSPEL, and Pastor of the Congregation AT BEDFORD,</head>
+            <head type="sub">Collected, and to be Printed in Folio, by Procurement of his Church and Friends, and by his own Approbation before his Death, that these his <hi>Christian Ministerial Labours,</hi> may be preserved in the World.</head>
+            <p>He was an Eminent Convert, and Experienc'd Christian. He was an Excellent, Eminent and Famous Gospel Minister. He hath Suffered Twelve Years Imprisonment for Gospel Preaching. His Books have sold admirably well. And he behaved himself Wisely, Plainly, Couragiously, as a Follower of the Great Apostle <hi>Paul,</hi> as he was a Follower of <hi>Christ.</hi> And therefore all <hi>Christian People,</hi> may reckon themselves obliged to preserve these his Labours, by Sub<g ref="char:EOLhyphen"/>scribing for a Folio.</p>
+            <p>This Folio will contain Ten of his Excellent <hi>Manuscripts,</hi> prepared for the Press, before his Death: And Ten of his <hi>Choice Books</hi> already Printed, but long ago, and not now to be had. Their Titles are as followeth, <hi>viz.</hi>
+               <list>
+                  <head>MANUSCRIPTS.</head>
+                  <item>
+                     <hi>An Exposition on the Ten first Chapters of</hi> Genesis.</item>
+                  <item>
+                     <hi>Justification by Imputed Righteousness.</hi>
+                  </item>
+                  <item>Paul<hi>'s Departure and Crown.</hi>
+                  </item>
+                  <item>Israel<hi>'s Hope Incouraged.</hi>
+                  </item>
+                  <item>
+                     <hi>Desires of the Righteous granted.</hi>
+                  </item>
+                  <item>
+                     <hi>The Saints Priviledge and Profit.</hi>
+                  </item>
+                  <item>Christ <hi>a compleat Saviour.</hi>
+                  </item>
+                  <item>
+                     <hi>Saints knowledge of</hi> Christ<hi>'s Love.</hi>
+                  </item>
+                  <item>
+                     <hi>The House of the Forest of</hi> Lebanon.</item>
+                  <item>
+                     <hi>A Description of</hi> Antichrist.</item>
+               </list>
+               <list>
+                  <head>BOOKS formerly Printed.</head>
+                  <item>
+                     <hi>Saved by Grace.</hi>
+                  </item>
+                  <item>
+                     <hi>Christian Behaviour.</hi>
+                  </item>
+                  <item>
+                     <hi>A Discourse of Prayer.</hi>
+                  </item>
+                  <item>
+                     <hi>The Straight Gate.</hi>
+                  </item>
+                  <item>
+                     <hi>Gospel Truths opened.</hi>
+                  </item>
+                  <item>
+                     <hi>Light for them in Darkness.</hi>
+                  </item>
+                  <item>
+                     <hi>Instructions for the Ignorant.</hi>
+                  </item>
+                  <item>
+                     <hi>A Map of Salvation,</hi> &amp;c.</item>
+                  <item>
+                     <hi>The</hi> New Jerusalem.</item>
+                  <item>
+                     <hi>The Resurrection.</hi>
+                  </item>
+               </list>
+            </p>
+            <div type="proposal">
+               <head>For PRINTING whereof, it is Proposed,</head>
+               <list>
+                  <item>I. THAT the Author's Effigies shall be Engraven in Copper, and prefixt before the Book.</item>
+                  <item>II. That this Book will contain about One Hundred and Forty Sheets, in Folio; for Paper and Print the same with these Proposals.</item>
+                  <item>III. That the Subscribers to pay Ten Shillings a Book, <hi>viz.</hi> Five Shillings down, and Five Shillings at the Delivery of a Perfect Book, unbound.</item>
+                  <item>IV. For Encouragement of them that shall get Subscriptions for Six Books, they shall have a Seventh <hi>Gratis.</hi>
+                  </item>
+                  <item>V. That as soon as Three Hundred Subscriptions is brought in, the Book shall be finished in Six Months after.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Undertaker is <hi>William Marshall,</hi> at the <hi>Bible</hi> in <hi>Newgate-street, London.</hi>
+               </head>
+               <p>Where Proposals are to be had, and Receits for Subscription-Money given; and Care shall be taken, that it shall be well Corrected. It is desired, That those, that will encourage so good a Work, would speedily send in the first Payment of their Money, to those Persons under named; who will give Receits for the same: Mr. <hi>John Strudwick</hi> Grocer, at the <hi>Star</hi> at <hi>Holborn-bridge,</hi> Mr. <hi>Charles Dow,</hi> at the <hi>Boar</hi>'s-<hi>Head</hi> in the Burrough in <hi>Southwark,</hi> Mr. <hi>Chandler</hi> Minister, and Mr. <hi>William Nichols,</hi> in <hi>Bedford,</hi> Mr. <hi>Edward Den</hi> of <hi>Cranfield, Nicholas Mayland</hi> of <hi>Gamlygay,</hi> Mr. <hi>Luke Astwood</hi> of <hi>Potton,</hi> Mr. <hi>Samuel Hensman</hi> of <hi>Brantery,</hi> Mr. <hi>James Collidge</hi> in <hi>Cambridge,</hi> Mr. <hi>Pack</hi> of <hi>Exeter,</hi> Mr. <hi>John Clark</hi> of <hi>Gilford,</hi> Mr. <hi>Masey</hi> of <hi>Harborough,</hi> Mr. <hi>William Hensmon</hi> of <hi>Wellingborough,</hi> Mr. <hi>Sory</hi> of <hi>Lancashire,</hi> Mr. <hi>Chandler</hi> of <hi>Malborough.</hi> Mr. <hi>Grifeth,</hi> and Mr. <hi>Pool</hi> in <hi>Lanviling.</hi> To the Churches of <hi>Brostol</hi> and <hi>Canterbury,</hi> the said <hi>William Marshall,</hi> the Undertaker, does promise, That the Subscribers shall have them well Bound in good Calves Leather, for Two Shillings a piece.</p>
+               <p>☞ Likewise those Books following, concerning <hi>Church Government,</hi> lately Published, are sold at the <hi>Bible</hi> in <hi>Newgate-street,</hi> Dr. <hi>Owen</hi> of the <hi>Nature of a Gospel Church,</hi> and its <hi>Government,</hi> Bound 3 <hi>s. Ecclesiasticum,</hi> or, A plain and familiar Christian Conference, concerning Gospel Churches and Orders, by Dr. <hi>Chaney,</hi> Bound 1 <hi>s.</hi> The Interest of Churches, Stitch'd, 6 <hi>d.</hi> Dr. <hi>Owen</hi>'s brief instruction in the Worship of God, Bound 1 <hi>s.</hi> A Declaration of the Faith and Order <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d and practised in the Congregational Churches in <hi>England,</hi> agreed upon, and consented unto by their Elders and <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ssengers, at the <hi>Savoy;</hi> which is now agreed on by this late Agreement of the Churches, Bound 10 <hi>d.</hi> Those Churches that take Numbers, shall have them Cheaper: Where you may have <hi>Caryl</hi> on <hi>Job</hi> in 2 Vol. in Folio, Cheap: And like<g ref="char:EOLhyphen"/>wise, Ministers that would supply their Studies cheap, may have <hi>Pool</hi>'s <hi>Synopsis, Latin,</hi> on the <hi>New Testament,</hi> in two large Volumes, with the Index; both well Bound for 30 <hi>s.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
